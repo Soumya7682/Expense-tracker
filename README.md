@@ -1,2 +1,8 @@
-# Expense-tracker
-The Expense Tracker App is a simple yet powerful web application that allows users to manage their personal finances by tracking income and expenses. The app dynamically updates the user's balance and stores transaction data locally for persistence.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
